@@ -20,3 +20,54 @@ Verplaats de hele stapel blokken één plek naar rechts. Zorg ervoor dat de volg
 
 ![Oefening 4](https://github.com/davinci-ao/robotarm/readme/exercise4.png)
 
+##Oefening 5
+Juist...?
+
+![Oefening 5](https://github.com/davinci-ao/robotarm/readme/exercise5.png)
+
+##Oefening 6
+Verplaats alle blokken één plek naar rechts. Zorg ervoor dat de volgorde van de blokken gelijk blijft. 
+
+![Oefening 6](https://github.com/davinci-ao/robotarm/readme/exercise6.png)
+
+##Oefening 7
+Verplaats iedere stapel één plek naar links.
+
+Je mag maximaal 13 regels code gebruiken!
+
+![Oefening 7](https://github.com/davinci-ao/robotarm/readme/exercise7.png)
+
+##Oefening 8
+Verplaats de stapel naar de rechterkant.
+
+Je mag maximaal 13 regels code gebruiken!
+
+![Oefening 8](https://github.com/davinci-ao/robotarm/readme/exercise8.png)
+
+##Oefening 9
+Verplaats alle stapels vijf stappen naar rechts.
+
+Je mag maximaal 15 regels code gebruiken!
+
+![Oefening 9](https://github.com/davinci-ao/robotarm/readme/exercise9.png)
+
+##Oefening 10
+Draai de volgorde van de blokken om.
+
+Je mag maximaal 20 regels code gebruiken!
+
+![Oefening 10](https://github.com/davinci-ao/robotarm/readme/exercise10.png)
+
+##Oefening 11
+Verplaats alle witte blokken één plek naar rechts. 
+
+Let op, de blokken zijn iedere keer anders als je het programma start!
+
+![Oefening 11](https://github.com/davinci-ao/robotarm/readme/exercise11.png)
+
+##Oefening 12
+Verplaats alle rode blokken naar het einde.
+
+Let op, de blokken zijn iedere keer anders als je het programma start!
+
+![Oefening 12](https://github.com/davinci-ao/robotarm/readme/exercise12.png)
