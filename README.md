@@ -43,7 +43,7 @@ robot_arm:load_level('exercise 6')
 ```
 Verplaats alle blokken één plek naar rechts. Zorg ervoor dat de volgorde van de blokken gelijk blijft. 
 
-![Oefening 5](readme/exercise5.png)
+![Oefening 5](readme/exercise6.png)
 
 ##Oefening 6
 ```lua
@@ -54,7 +54,7 @@ Verplaats iedere stapel één plek naar links.
 
 Je mag maximaal 13 regels code gebruiken!
 
-![Oefening 6](readme/exercise6.png)
+![Oefening 6](readme/exercise7.png)
 
 ##Oefening 7
 ```lua
@@ -65,7 +65,7 @@ Verplaats de stapel naar de rechterkant.
 
 Je mag maximaal 13 regels code gebruiken!
 
-![Oefening 7](readme/exercise7.png)
+![Oefening 7](readme/exercise8.png)
 
 ##Oefening 8
 ```lua
@@ -76,7 +76,7 @@ Verplaats alle stapels vijf stappen naar rechts.
 
 Je mag maximaal 15 regels code gebruiken!
 
-![Oefening 8](readme/exercise8.png)
+![Oefening 8](readme/exercise9.png)
 
 ##Oefening 9
 ```lua
@@ -87,7 +87,7 @@ Draai de volgorde van de blokken om.
 
 Je mag maximaal 20 regels code gebruiken!
 
-![Oefening 9](readme/exercise9.png)
+![Oefening 9](readme/exercise10.png)
 
 ##Oefening 10
 ```lua
@@ -98,7 +98,7 @@ Verplaats alle witte blokken één plek naar rechts.
 
 Let op, de blokken zijn iedere keer anders als je het programma start!
 
-![Oefening 10](readme/exercise10.png)
+![Oefening 10](readme/exercise11.png)
 
 ##Oefening 11
 ```lua
@@ -109,7 +109,7 @@ Verplaats alle rode blokken naar het einde.
 
 Let op, de blokken zijn iedere keer anders als je het programma start!
 
-![Oefening 11](readme/exercise11.png)
+![Oefening 11](readme/exercise12.png)
 
 ##Oefening 12
 ```lua
