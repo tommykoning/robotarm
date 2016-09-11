@@ -116,4 +116,8 @@ Let op, de blokken zijn iedere keer anders als je het programma start!
 require 'robot_arm'
 robot_arm:random_level(1)
 ```
+<<<<<<< HEAD
 Verplaats alle blokken over de lege plaatsen, zodra er geen blokken meer zijn moet de arm stoppen.
+=======
+Verplaats alle blokken over de lege plaatsen, zodra er geen blokken meer zijn moet de arm stoppen.
+>>>>>>> origin/master
