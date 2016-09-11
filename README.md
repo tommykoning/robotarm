@@ -1,12 +1,12 @@
 #Robotarm
 
 ##Oefening 1
-Verplaats het rode blok één plek naar links.
-
 ```lua
 require 'robot_arm'
 robot_arm:load_level('exercise 1')
 ```
+
+Verplaats het rode blok één plek naar links.
 
 ![Oefening 1](https://github.com/davinci-ao/robotarm/readme/exercise1.png)
 
